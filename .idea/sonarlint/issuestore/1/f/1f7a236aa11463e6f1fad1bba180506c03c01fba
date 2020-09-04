@@ -1,0 +1,40 @@
+
+c
+java:S2147³"ECombine this catch with the one at line 177, which has the same body.(ÒåÒÆ8¿º»Ş».
+k
+java:S1192y"IDefine a constant instead of duplicating this literal "PASSWORD" 4 times.(Í†’œşÿÿÿÿ8ØÏ“ß».
+g
+java:S2259½"DA "NullPointerException" could be thrown; "cipher" is nullable here.(ÂÙÎ¸ùÿÿÿÿ8¿º»Ş».
+u
+java:S30080"SRename this field "KEY_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İùâ­ıÿÿÿÿ8É“¾Ü».
+U
+java:S1117x"8Rename "user" which hides the field declared at line 50.(©ŞÏ8ÚŸß».
+b
+java:S2147«"ECombine this catch with the one at line 169, which has the same body.(ÿÒ„p8¿º»Ş».
+A
+java:S5542 "#Use secure mode and padding scheme.(®’›’8¿º»Ş».
+b
+java:S2147µ"ECombine this catch with the one at line 177, which has the same body.(ÿÒ„p8¿º»Ş».
+X	java:S110-"<This class has 9 parents which is greater than 5 authorized.(²Ú±8õˆ‚Ü».
+€
+java:S14504"cRemove the "biometricLoginButton" field and declare it as a local variable in the relevant methods.(‡ûŸú8À”Ş».
+c
+java:S2147·"ECombine this catch with the one at line 177, which has the same body.(ï­£Ä8¿º»Ş».
+Q
+java:S1128"/Remove this unused import 'android.app.Dialog'.(·‚Àúÿÿÿÿ8áí¨Ş».
+^
+java:S1117y"<Rename "password" which hides the field declared at line 51.(Í†’œşÿÿÿÿ8ÚŸß».
+‚
+java:S14505"`Remove the "normalLoginButton" field and declare it as a local variable in the relevant methods.(’ú´íùÿÿÿÿ8´˜œŞ».
+f
+java:S2147Z"DCombine this catch with the one at line 86, which has the same body.(£İ´›ùÿÿÿÿ8¿º»Ş».
+`
+java:S2147X"DCombine this catch with the one at line 86, which has the same body.(ÿÒ„p8¿º»Ş».
+h
+java:S2147¶"ECombine this catch with the one at line 308, which has the same body.(©Ë¸Ãşÿÿÿÿ8ØÏ“ß».
+h
+java:S2147¹"ECombine this catch with the one at line 177, which has the same body.(ÀŸÕ›ûÿÿÿÿ8¿º»Ş».
+M
+java:S1068:"0Remove this unused "registerUser" private field.(™şÖ8çåşŞ».
+p
+java:S3008/"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½–óúÿÿÿÿ8±œ“Ü».
